@@ -25,7 +25,7 @@ Clone the repository and open the index.html file in your browser to start using
 <br>
 <h1>🧮Scientific Calculator</h1>
 <br>
-Explore my Scientific Calculator(https://adnanhashmii.github.io/Scientific-Calculator/), a fully functional web-based calculator that handles a range of mathematical operations with precision. This project showcases my skills in JavaScript and user interface design, providing a sleek and intuitive tool for performing calculations. The calculator supports advanced functions, making it a valuable resource for both students and professionals.
+Explore my Scientific Calculator(https://adnanhashmii.github.io/Scientific_Calculator_Codealpha_tasks/), a fully functional web-based calculator that handles a range of mathematical operations with precision. This project showcases my skills in JavaScript and user interface design, providing a sleek and intuitive tool for performing calculations. The calculator supports advanced functions, making it a valuable resource for both students and professionals.
 <br>
 <h1>Contributing</h1>
 <br>
