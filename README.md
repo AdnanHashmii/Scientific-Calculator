@@ -19,7 +19,7 @@ The Scientific Calculator project is a comprehensive and user-friendly applicati
 <br>
 <b>JavaScript:</b> Implemented the logic for performing calculations and handling user inputs.
 <br>
-<h1>Usage<h1>
+<h1>Usage</h1>
 <br>
 Clone the repository and open the index.html file in your browser to start using the calculator. The interface is intuitive, with buttons clearly labeled for each function.
 <br>
