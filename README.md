@@ -23,6 +23,10 @@ The Scientific Calculator project is a comprehensive and user-friendly applicati
 <br>
 Clone the repository and open the index.html file in your browser to start using the calculator. The interface is intuitive, with buttons clearly labeled for each function.
 <br>
+<h1>🧮Scientific Calculator</h1>
+<br>
+Explore my Scientific Calculator, a fully functional web-based calculator that handles a range of mathematical operations with precision. This project showcases my skills in JavaScript and user interface design, providing a sleek and intuitive tool for performing calculations. The calculator supports advanced functions, making it a valuable resource for both students and professionals.
+<br>
 <h1>Contributing</h1>
 <br>
 Contributions are welcome! If you have suggestions for new features or improvements, feel free to fork this repository, make your changes, and submit a pull request.
